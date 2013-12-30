@@ -1,3 +1,6 @@
+NOTE: This software is from some time in July of 2005. More work was done in the year following which included the switch into 32-bit Protected Mode, FAT12 filesystem read/write support, system timer support and a custom executable format and loader. Unfortunately, as far as I can tell, these later revisions were lost to the sands of time. If I ever manage to find them again, I will dance for joy and immediately upload them.
+
+
 P5OSR0ppb
 ------
 
